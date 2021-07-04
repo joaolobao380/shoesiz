@@ -1,0 +1,12 @@
+{
+  "name": "shoesiz",
+  "displayName": "shoesiz",
+  "expo": {
+    "name": "shoesiz",
+    "slug": "shoesiz",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
