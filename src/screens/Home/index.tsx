@@ -1,6 +1,10 @@
 import React from 'react';
-import { View } from 'react-native';
+import { Text, SafeAreaView } from 'react-native';
 
 export default function Home() {
-    return <View />;
+    return (
+        <SafeAreaView>
+            <Text>Oi</Text>
+        </SafeAreaView>
+    );
 }
